@@ -1,0 +1,6 @@
+flask
+flask-cors
+# Uncomment below if you add a TensorFlow model:
+# tensorflow
+# pillow
+# numpy
