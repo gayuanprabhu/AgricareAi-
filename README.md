@@ -32,3 +32,7 @@ AgriCareAI aims to provide a **simple, accessible, and AI-assisted solution** fo
 ---
 
 ## 📂 Project Structure
+│
+├── frontend/ # React frontend
+├── backend/ # Flask backend API
+└── README.md
