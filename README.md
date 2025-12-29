@@ -30,7 +30,21 @@ AgriCareAI aims to provide a **simple, accessible, and AI-assisted solution** fo
 - Image processing logic
 
 ---
+🧪 Learning Outcomes
 
+Built a full-stack application with frontend–backend communication
+
+Worked with REST APIs
+
+Gained experience in Python backend development
+
+Understood project structuring and deployment readiness
+
+📌 Note
+
+This project was built as part of my learning journey and focuses on practical full-stack and backend development concepts.
+
+---
 ## 📂 Project Structure
 │
 <br>
@@ -53,4 +67,3 @@ python app.py
 cd frontend
 npm install
 npm start
-
