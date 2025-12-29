@@ -3,6 +3,7 @@
 AgriCareAI is a **full-stack web application** designed to assist farmers and users in identifying plant diseases using images.  
 The system combines a **React frontend** with a **Flask-based backend API** that processes image data and returns diagnosis results.
 
+ > ⚠️ Note: This project was originally developed as a college project and is kept for reference and learning purposes.
 ---
 
 ## 🚩 Problem Statement
